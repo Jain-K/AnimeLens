@@ -2,6 +2,8 @@
 
 **AnimeLens** is an interactive dashboard for exploring anime trends, genres, studios, regional preferences, and success prediction, powered by Streamlit and advanced data visualization.
 
+ **Deployed Link:** https://vedantadlak-anime-lens-home-vakjge.streamlit.app
+
 ---
 
 ## 🚀 Features
