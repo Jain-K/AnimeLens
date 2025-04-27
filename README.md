@@ -26,15 +26,21 @@
     source anime/bin/activate
     cd AnimeDashboard
     ```
+2. **Make Virtual Environment:**
+    ```
+    cd AnimeLens
+    python3 -m venv anime
+    source anime/bin/activate
+    cd AnimeDashboard
+    ```
 
-2. **Install dependencies:**
+3. **Install dependencies:**
     ```
     pip install -r requirements.txt
     ```
 
-3. **Download Data:**
-    - Place all required CSV files in the `AnimeDashboard/data` folder.
-    - **Important:** The file `animelists_cleaned.csv` is very large and **cannot be stored on GitHub**.
+4. **Download Data:**
+      - **Important:** The file `animelists_cleaned.csv` is very large and **cannot be stored on GitHub**.
       - **Download it from Kaggle:**  
         [MyAnimeList Dataset on Kaggle](https://www.kaggle.com/datasets/azathoth42/myanimelist?select=animelists_cleaned.csv)
       - Place it in: `AnimeDashboard/data/animelists_cleaned.csv`
