@@ -23,10 +23,6 @@
 1. **Clone the repository:**
     ```
     git clone https://github.com/Jain-K/AnimeLens/tree/master
-    cd AnimeLens
-    python3 -m venv anime
-    source anime/bin/activate
-    cd AnimeDashboard
     ```
 2. **Make Virtual Environment:**
     ```
